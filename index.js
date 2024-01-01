@@ -589,6 +589,7 @@ const descriptions = [
     'a drone',
     'a vr headset',
     'twitter api (rip)',
+    'r2d2',
 ];
 
 const refreshSlots = () => {
