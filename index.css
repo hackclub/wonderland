@@ -839,6 +839,21 @@ img {
     margin-bottom: 0.3rem;
 }
 
+#art-credit {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    font-size: 1.2rem;
+    font-family: 'EDU TAS Beginner', sans-serif;
+    color: #fff;
+    opacity: 0.7;
+    z-index: 200;
+}
+
+#art-credit a {
+    color: #fff;
+}
+
 @media screen and (max-width: 850px) {
     #tagline {
         font-size: 5rem;
@@ -901,6 +916,10 @@ img {
     }
 
     .slot-desc {
+        font-size: 1rem;
+    }
+
+    #art-credit {
         font-size: 1rem;
     }
 }
