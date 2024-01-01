@@ -583,6 +583,12 @@ const descriptions = [
     'a bird',
     'a tree',
     'a bottle',
+    'a drill',
+    'a selfie stick',
+    'a messaging app',
+    'a drone',
+    'a vr headset',
+    'twitter api (rip)',
 ];
 
 const refreshSlots = () => {
