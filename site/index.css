@@ -644,8 +644,8 @@ img {
     width: 100%;
     padding: 1rem 0;
     box-sizing: border-box;
-    font-size: 1.8rem;
-    /* font-family: 'Vollkorn', serif; */
+    font-size: 1.5rem;
+    font-family: 'Vollkorn', serif;
     font-weight: 400;
     height: 100%;
     overflow-y: scroll;
