@@ -35,3 +35,7 @@ img {
     width: 100%;
     max-width: 600px;
 }
+
+.airtable-embed {
+    height: 100vh !important;
+}

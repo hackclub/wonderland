@@ -854,6 +854,30 @@ img {
     color: #fff;
 }
 
+#rescheduled-alert {
+    z-index: 150;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 5rem;
+    left: 50%;
+
+    background: #ffb6e6;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+
+    font-family: 'Vollkorn', serif;
+    font-size: 1.1rem;
+
+    width: 80%;
+    max-width: 30rem;
+
+    color: black;
+}
+
+#rescheduled-alert a {
+    color: black;
+}
+
 @media screen and (max-width: 850px) {
     #tagline {
         font-size: 5rem;
