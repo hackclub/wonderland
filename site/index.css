@@ -825,7 +825,7 @@ img {
 
 #questions-modal details {
     cursor: pointer;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     margin-bottom: 2rem;
 }
 
@@ -945,5 +945,17 @@ img {
 
     #art-credit {
         font-size: 1rem;
+    }
+
+    #questions-modal details {
+        font-size: 1.3rem;
+    }
+
+    #questions-modal details summary {
+        font-size: 1.5rem;
+    }
+
+    #tagline {
+        top: 40%;
     }
 }
