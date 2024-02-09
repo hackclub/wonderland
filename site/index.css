@@ -858,7 +858,7 @@ img {
     z-index: 150;
     position: fixed;
     transform: translate(-50%, -50%);
-    top: 5rem;
+    top: 3rem;
     left: 50%;
 
     background: #ffb6e6;
@@ -872,6 +872,8 @@ img {
     max-width: 30rem;
 
     color: black;
+
+    text-align: center;
 }
 
 #rescheduled-alert a {
