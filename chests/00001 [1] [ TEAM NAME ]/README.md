@@ -1,6 +1,6 @@
 # Chest One
 
-### Started With:Started With:
+### Started With:
 - Walkie Talkie
 - Cashier Register
 - Potato
