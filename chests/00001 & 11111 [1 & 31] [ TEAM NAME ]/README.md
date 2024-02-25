@@ -1,11 +1,18 @@
-# Chest Twenty Nine
+# Chest One
 
 ### Started With:
-- Certificate Paper
-- Caution Tape
-- SAT Vocab Flash Cards
-- Writing Prompts
-- Poetry for Neanderthals
+Chest 1:
+- Walkie Talkie
+- Cashier Register
+- Potato
+
+Chest 31:
+- 5 Gallon Water Jug
+- Towels
+- Water Bottles
+- Aluminum Cups
+- Stop Sign
+- Inspiration: Darth Vader in the Water, Giant Rubber Ducky
 
 ### Team Members:
 - *FILL ME IN! DROP YOUR GITHUB HANDLES!*
