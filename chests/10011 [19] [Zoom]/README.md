@@ -17,11 +17,11 @@
 
 ### Trade Record:
 - *FILL ME IN AS YOU TRADE!*
-- Gave a big a paper clip
+- Gave a big paper clip
 
 ## End Result
 *INSERT PROJECT IMAGE*
-- finalResult.png
+![bike](https://cloud-o1p4ymsc8-hack-club-bot.vercel.app/0img_20240225_091549.jpg)
 - zooooom, we now have a bike tire with disco ligth that goes onto a heavily modified box fan without the fan.
 - The tire will accelerate and then we can let it fly off.
 
@@ -31,7 +31,7 @@
 
 ### Project Summary
 *What did you end up making?*
-- a very very safe bike tire accelerator that did not hit Leah's car once* at all
+- a very very safe bike tire accelerator
 
 ### How did the items in your box inspire you?
 *The _____ inspired me to __*
