@@ -6,22 +6,24 @@
 - Tomatoe
 
 ### Team Members:
-- *FILL ME IN! DROP YOUR GITHUB HANDLES!*
+- *Robert Barkalov and Eva Barkalova*
 
 ### Trade Record:
-- *FILL ME IN AS YOU TRADE!*
+- *No trades were made*
 
 ## End Result
-*INSERT PROJECT IMAGE*
+**
 
 ### Ended With:
 - *FILL ME IN AT THE END!*
 
 ### Project Summary
-*What did you end up making?*
+*AR game for 2 players in which each person tries to find the item and show it to the camera to get points, you have a tottal of 30 seconds to get points.*
 
 ### How did the items in your box inspire you?
-*The _____ inspired me to __*
+*The Skillet inspired me to use ar and make a good related app*
 
 ### What items did you use?
 - *All of them? Some of them? List out which ones!*
+- The skillet
+- Tomato
