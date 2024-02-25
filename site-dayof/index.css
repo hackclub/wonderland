@@ -71,6 +71,11 @@ main {
     gap: 0.25rem;
 }
 
+.link.special {
+    border: 1px solid #ffb6e6;
+    box-shadow: 0px 0px 5px #ffb6e6;
+}
+
 a:link {
     text-decoration: none;
 }
