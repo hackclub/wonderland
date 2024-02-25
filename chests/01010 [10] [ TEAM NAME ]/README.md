@@ -10,10 +10,13 @@
 - Two Potatoes
 
 ### Team Members:
-- *FILL ME IN! DROP YOUR GITHUB HANDLES!*
+- @cosmin-mare, @Sir-Hi, @eeriergosling, @anniezhu08, @Ironbeast10
 
 ### Trade Record:
-- *FILL ME IN AS YOU TRADE!*
+- 1 tomato -> computer lock
+- Pereodic table -> computer lock
+- A nice conversation -> toy dj station
+- Waffle iron -> clorx wipes
 
 ## End Result
 *INSERT PROJECT IMAGE*
