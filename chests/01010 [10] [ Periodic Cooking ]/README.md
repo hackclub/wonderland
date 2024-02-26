@@ -27,6 +27,8 @@
 
 ## End Result
 
+The game can be found at https://github.com/EerierGosling/Wonderland-Periodic-Cooking.
+
 ![The menu screen](Pictures/open_screen.png)
 
 ![The game](Pictures/game.png)
@@ -46,9 +48,9 @@
 ![The team](Pictures/team.jpeg)
 
 ### Project Summary
-We ended up making a Unity-based science & cooking game to help others know how to combine made-up elements and strengthen their reading and computer skills. 
+We ended up making a Unity-based chemistry & cooking game which combined the food and the periodic tables. The game helped people strenghen their chemistry skills, forcing them to remember how chemical equations work in order to add the right ingredients.
 
-This is far from what we started with, we initally had the idea of creating a hot-potato launcher system using the waffle iron, a spring, and a motor in which a person would catch the hot potato with a baseball glove after loosing the game.
+This is far from what we started with - we initally had the idea of creating a hot-potato launcher system using the waffle iron, a spring, and a motor in which a person would catch the hot potato with a baseball glove if they lost the game.
 
 We struggled with our inital idea due to time and hardware-resource contrsaints, but we generally agreed that it would be a good idea if there were no roadblocks.
 
