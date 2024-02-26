@@ -37,7 +37,7 @@ The game can be found at https://github.com/EerierGosling/Wonderland-Periodic-Co
 
 ![The lose screen](Pictures/lose_screen.png)
 
-![The modified fan with someone playing the game next to it](Pictures/table+fan.png)
+![The modified fan with someone playing the game next to it](Pictures/tablefan.png)
 
 ### Ended With
 
