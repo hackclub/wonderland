@@ -1,0 +1,262 @@
+html,
+body {
+    margin: 0;
+    background: #ffb6e6;
+}
+
+body {
+    font-family: 'EDU TAS Beginner', sans-serif;
+    font-size: 1.5rem;
+    color: #fff;
+
+    width: 100%;
+
+    box-sizing: border-box;
+}
+
+#hero {
+    position: relative;
+    width: 100%;
+    height: 95vh;
+
+    background: url('images/bot.webp');
+    background-size: cover;
+    background-position: top center;
+}
+
+#hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 90%;
+    max-width: 600px;
+}
+
+#hero-bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    filter: brightness(1);
+}
+
+#hero-logo {
+    width: 100%;
+    z-index: 2;
+
+    filter: drop-shadow(0 0 20px #ffb6e6);
+}
+
+#hero-label {
+    width: 100%;
+    z-index: 2;
+    margin-top: -20px;
+
+    filter: drop-shadow(0 0 30px #ffb6e6);
+}
+
+#gradient {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: linear-gradient(180deg, #00000000 80%, #ffb6e6 100%);
+    z-index: 1;
+}
+
+main {
+    position: relative;
+    top: -350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 10;
+    color: black;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    font-size: 1.8rem;
+}
+
+#photos {
+    display: grid;
+    flex-direction: column;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-top: 50px;
+    align-items: center;
+    height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    #photos {
+        grid-template-columns: 1fr;
+    }
+}
+
+#photos .photo {
+    box-shadow: 0 0 30px #ffffff98;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 100%;
+    /* max-width: 600px;
+    max-height: 600px; */
+    align-items: center;
+    /* rotate: -1deg; */
+}
+
+/* #photos .photo:nth-child(2n) {
+    rotate: 1deg;
+    scale: 1.02;
+    position: relative;
+}
+
+#photos .photo:nth-child(3n) {
+    rotate: 2deg;
+    scale: 0.98;
+}
+
+#photos .photo:nth-child(3n) {
+    rotate: 0deg;
+    scale: 1;
+}
+
+#photos .photo:nth-child(5n) {
+    rotate: -3deg;
+    scale: 1.03;
+}
+
+#photos .photo:nth-child(7n) {
+    rotate: 4deg;
+    scale: 1.01;
+} */
+
+#photos .photo.double {
+    grid-row: span 2;
+    scale: 0.97;
+}
+
+#photo-group {
+    width: 100%;
+    border-radius: 40px 40px 0 0;
+}
+
+#rabbit {
+    position: absolute;
+    top: -120px;
+    right: 60px;
+    height: 150px;
+    transform: scaleX(-1);
+}
+
+#about {
+    background: white;
+    border-radius: 40px;
+    border: 2px solid black;
+}
+
+#about-text {
+    padding: 15px 50px;
+    padding-top: 0px;
+}
+
+#photos-link {
+    text-decoration: none;
+    color: black;
+    background: #fff;
+    padding: 20px 80px;
+    border-radius: 80px;
+    border: 2px solid black;
+    font-weight: 800;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+    /* width: 100%; */
+    text-align: center;
+    margin-top: 40px;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px #fff;
+    rotate: -1deg;
+    transition: rotate 0.3s;
+}
+
+#photos-link:hover {
+    rotate: 1deg;
+}
+
+#github-link {
+    text-decoration: none;
+    color: black;
+    background: #fff;
+    padding: 15px 60px;
+    border-radius: 80px;
+    border: 2px solid black;
+    font-weight: 800;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px #fff;
+    rotate: 0deg;
+    transition: rotate 0.3s;
+}
+
+#github-link:hover {
+    rotate: 2deg;
+}
+
+#original-site {
+    color: black;
+    margin-top: 10px;
+}
+
+footer {
+    width: 100%;
+    max-width: 900px;
+
+    box-sizing: border-box;
+
+    padding: 20px;
+
+    margin: 0 auto;
+
+    margin-top: -360px;
+    font-size: 1.6rem;
+
+    color: #000;
+    text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+    #rabbit {
+        height: 100px;
+        top: -70px;
+    }
+    #photos-link,
+    #github-link {
+        padding: 15px 30px;
+        font-size: 1.5rem;
+    }
+
+    main {
+        font-size: 1.4rem;
+        top: -250px;
+    }
+
+    #about {
+        border-radius: 40px;
+    }
+
+    #about-text {
+        padding: 5px 30px;
+    }
+
+    footer {
+        margin-top: -280px;
+    }
+}
