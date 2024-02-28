@@ -1,9 +1,9 @@
 # Chest Three
 
 ### Started With:
-- Cat Piano
-- Flashing Light
-- Butternut Squash
+- Fake Security Cameras
+- Skillet Set
+- Tomato
 
 ### Team Members:
 - *FILL ME IN! DROP YOUR GITHUB HANDLES!*

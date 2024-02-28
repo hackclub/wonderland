@@ -1,9 +1,9 @@
 # Chest Four
 
 ### Started With:
-- Fake Security Camera
-- Skillet Set
-- Tomatoe
+- Cat Piano
+- Flashing Light
+- Butternut Squash
 
 ### Team Members:
 - *Robert Barkalov and Eva Barkalova*
