@@ -8,22 +8,23 @@
 - Paper Carrots
 
 ### Team Members:
-- *FILL ME IN! DROP YOUR GITHUB HANDLES!*
+Pranav Nandyalam: pnandyalam, Aditya Balamurugan, Dinesh B
 
 ### Trade Record:
-- *FILL ME IN AS YOU TRADE!*
+- gave out lighter to another team
 
 ## End Result
-*INSERT PROJECT IMAGE*
+![Game]("https://github.com/pnandyalam/wonderland/assets/68257536/ad6f580f-92b7-4fdf-a91f-113c6e5386ce")
 
 ### Ended With:
-- *FILL ME IN AT THE END!*
+ended with chess, dice, cards, and carrots
 
 ### Project Summary
-*What did you end up making?*
+A chess game with a twist, powerups. https://github.com/pnandyalam/wonderlandHack.git
 
 ### How did the items in your box inspire you?
-*The _____ inspired me to __*
+The cards inspired me to create different powerups that randomly go to the players. The die inspired me to create a gamble to use these cards if you call the right number.
+The lighter inspired me to create a fire powerup.
 
 ### What items did you use?
-- *All of them? Some of them? List out which ones!*
+Chess, Dice, Cards, Lighter
