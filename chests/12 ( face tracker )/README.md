@@ -12,7 +12,7 @@
 
 - Aiden Delcore
 - Avishn Sharma
-- Anne Li
+- Anne Li [thisthatwhenwhere](https://github.com/thisthatwhenwhere)
 - Shav Kinderlehrer [secondary-smiles](https://github.com/secondary-smiles)
 - Steven Chen 
 
