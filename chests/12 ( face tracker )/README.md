@@ -11,7 +11,7 @@
 ### Team Members:
 
 - Aiden Delcore
-- Avishn Sharma [ChuckChuckler](https://github.com/ChuckChuckler)
+- Avishi Sharma [ChuckChuckler](https://github.com/ChuckChuckler)
 - Anne Li [thisthatwhenwhere](https://github.com/thisthatwhenwhere)
 - Shav Kinderlehrer [secondary-smiles](https://github.com/secondary-smiles)
 - Steven Chen 
